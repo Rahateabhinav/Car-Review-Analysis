@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 25 15:06:06 2019
 
-@author: AbPa
-"""
 
 from nltk.tokenize import sent_tokenize, word_tokenize
 from selenium import webdriver
